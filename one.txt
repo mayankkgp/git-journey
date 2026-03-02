@@ -3,3 +3,5 @@ one
 Hello
 
 Another feature
+
+Dark mode functionality
